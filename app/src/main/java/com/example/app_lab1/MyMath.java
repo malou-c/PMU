@@ -1,7 +1,7 @@
 package com.example.app_lab1;
 
 /**
- * Class math functions <b>maker</b> и <b>price</b>.
+ * Class math functions
  * @version 1.0
  */
 public class MyMath {
@@ -22,6 +22,7 @@ public class MyMath {
         return mini;
     }
 
+    
     /**
      * Static method for finding the minimum of two elements
      * @param x - first arg
